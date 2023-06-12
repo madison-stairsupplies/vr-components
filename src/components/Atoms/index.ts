@@ -6,10 +6,12 @@ import LoadingSpinner from "./Loading/LoadingSpinner";
 import Logo from "./Logo/Logo";
 import Select from "./Select/Select";
 import Typography from "./Typography/Typography";
+import Skeleton from "./Skeleton/Skeleton";
 
 export {
   Button,
   Flex,
+  Skeleton,
   Container,
   Input,
   LoadingSpinner,
