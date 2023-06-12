@@ -1,0 +1,35 @@
+
+<!-- Custom-MDX-Documentation.mdx -->
+
+import { Story, Typeset, Canvas, ArgsTable, Meta} from "@storybook/addon-docs/blocks"
+
+
+
+export const typography = {
+  type: {
+    primary: '"Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif',
+  },
+  weight: {
+    regular: '400',
+    bold: '700',
+    extrabold: '800',
+    black: '900',
+  },
+};
+
+export const fontSizes = ["0.875rem", '1rem', '1.125rem', '1.25rem', '1.5rem', '1.875rem']
+
+export const SampleText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.';
+
+# Typography
+
+**Font:** Nunito Sans
+
+**Weights:** 400(regular), 700(bold), 800(extrabold), 900(black)
+
+<Typeset
+  fontSizes={fontSizes}
+  fontWeight={typography.weight.black}
+  sampleText={SampleText}
+  fontFamily={typography.type.primary}
+/>
