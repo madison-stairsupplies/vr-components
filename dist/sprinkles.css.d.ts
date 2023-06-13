@@ -61,19 +61,19 @@ export declare const lineHeight: {
     "2xl": string;
 };
 export declare const sprinkles: ((props: {
-    minWidth?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | {
-        mobile?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        tablet?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        desktop?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        hover?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        focus?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
+    minWidth?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | {
+        mobile?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        tablet?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        desktop?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        hover?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        focus?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
     } | undefined;
-    maxWidth?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | {
-        mobile?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        tablet?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        desktop?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        hover?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        focus?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
+    maxWidth?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | {
+        mobile?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        tablet?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        desktop?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        hover?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        focus?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
     } | undefined;
     boxSizing?: "border-box" | {
         mobile?: "border-box" | undefined;
@@ -82,19 +82,19 @@ export declare const sprinkles: ((props: {
         hover?: "border-box" | undefined;
         focus?: "border-box" | undefined;
     } | undefined;
-    width?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | {
-        mobile?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        tablet?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        desktop?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        hover?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        focus?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
+    width?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | {
+        mobile?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        tablet?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        desktop?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        hover?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        focus?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
     } | undefined;
-    flexBasis?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | {
-        mobile?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        tablet?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        desktop?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        hover?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
-        focus?: 0 | 4 | 8 | 1 | 12 | 2 | 3 | 5 | 6 | 7 | 9 | 10 | 11 | undefined;
+    flexBasis?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | {
+        mobile?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        tablet?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        desktop?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        hover?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
+        focus?: 0 | 2 | 1 | 3 | 4 | 8 | 5 | 6 | 10 | 7 | 12 | 9 | 11 | undefined;
     } | undefined;
     flexWrap?: "nowrap" | "wrap" | {
         mobile?: "nowrap" | "wrap" | undefined;
@@ -117,54 +117,54 @@ export declare const sprinkles: ((props: {
         hover?: number | undefined;
         focus?: number | undefined;
     } | undefined;
-    gap?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    gap?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    marginTop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginTop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    marginBottom?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginBottom?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    marginLeft?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginLeft?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    marginRight?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginRight?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    margin?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    margin?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    display?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | {
-        mobile?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | undefined;
-        tablet?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | undefined;
-        desktop?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | undefined;
-        hover?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | undefined;
-        focus?: "none" | "initial" | "flex" | "block" | "inline" | "inline-flex" | undefined;
+    display?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | {
+        mobile?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | undefined;
+        tablet?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | undefined;
+        desktop?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | undefined;
+        hover?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | undefined;
+        focus?: "flex" | "inline" | "none" | "block" | "initial" | "inline-flex" | undefined;
     } | undefined;
     flexDirection?: "column" | "row" | {
         mobile?: "column" | "row" | undefined;
@@ -173,61 +173,61 @@ export declare const sprinkles: ((props: {
         hover?: "column" | "row" | undefined;
         focus?: "column" | "row" | undefined;
     } | undefined;
-    justifyContent?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | {
-        mobile?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        tablet?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        desktop?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        hover?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        focus?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
+    justifyContent?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | {
+        mobile?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        tablet?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        desktop?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        hover?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        focus?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
     } | undefined;
-    alignItems?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | {
-        mobile?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        tablet?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        desktop?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        hover?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        focus?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
+    alignItems?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | {
+        mobile?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        tablet?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        desktop?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        hover?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        focus?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
     } | undefined;
-    textAlign?: "left" | "right" | "center" | "justify" | {
-        mobile?: "left" | "right" | "center" | "justify" | undefined;
-        tablet?: "left" | "right" | "center" | "justify" | undefined;
-        desktop?: "left" | "right" | "center" | "justify" | undefined;
-        hover?: "left" | "right" | "center" | "justify" | undefined;
-        focus?: "left" | "right" | "center" | "justify" | undefined;
+    textAlign?: "center" | "left" | "right" | "justify" | {
+        mobile?: "center" | "left" | "right" | "justify" | undefined;
+        tablet?: "center" | "left" | "right" | "justify" | undefined;
+        desktop?: "center" | "left" | "right" | "justify" | undefined;
+        hover?: "center" | "left" | "right" | "justify" | undefined;
+        focus?: "center" | "left" | "right" | "justify" | undefined;
     } | undefined;
-    paddingTop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingTop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    paddingBottom?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingBottom?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    paddingLeft?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingLeft?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    paddingRight?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingRight?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    padding?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    padding?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
     position?: "fixed" | "absolute" | "relative" | "sticky" | {
         mobile?: "fixed" | "absolute" | "relative" | "sticky" | undefined;
@@ -236,12 +236,12 @@ export declare const sprinkles: ((props: {
         hover?: "fixed" | "absolute" | "relative" | "sticky" | undefined;
         focus?: "fixed" | "absolute" | "relative" | "sticky" | undefined;
     } | undefined;
-    borderRadius?: "large" | "medium" | "small" | "rounded" | {
-        mobile?: "large" | "medium" | "small" | "rounded" | undefined;
-        tablet?: "large" | "medium" | "small" | "rounded" | undefined;
-        desktop?: "large" | "medium" | "small" | "rounded" | undefined;
-        hover?: "large" | "medium" | "small" | "rounded" | undefined;
-        focus?: "large" | "medium" | "small" | "rounded" | undefined;
+    borderRadius?: "small" | "medium" | "large" | "rounded" | {
+        mobile?: "small" | "medium" | "large" | "rounded" | undefined;
+        tablet?: "small" | "medium" | "large" | "rounded" | undefined;
+        desktop?: "small" | "medium" | "large" | "rounded" | undefined;
+        hover?: "small" | "medium" | "large" | "rounded" | undefined;
+        focus?: "small" | "medium" | "large" | "rounded" | undefined;
     } | undefined;
     textTransform?: "capitalize" | "lowercase" | "uppercase" | {
         mobile?: "capitalize" | "lowercase" | "uppercase" | undefined;
@@ -250,19 +250,19 @@ export declare const sprinkles: ((props: {
         hover?: "capitalize" | "lowercase" | "uppercase" | undefined;
         focus?: "capitalize" | "lowercase" | "uppercase" | undefined;
     } | undefined;
-    fontWeight?: number | "normal" | "bold" | "bolder" | "lighter" | {
-        mobile?: number | "normal" | "bold" | "bolder" | "lighter" | undefined;
-        tablet?: number | "normal" | "bold" | "bolder" | "lighter" | undefined;
-        desktop?: number | "normal" | "bold" | "bolder" | "lighter" | undefined;
-        hover?: number | "normal" | "bold" | "bolder" | "lighter" | undefined;
-        focus?: number | "normal" | "bold" | "bolder" | "lighter" | undefined;
+    fontWeight?: number | "bold" | "normal" | "lighter" | "bolder" | {
+        mobile?: number | "bold" | "normal" | "lighter" | "bolder" | undefined;
+        tablet?: number | "bold" | "normal" | "lighter" | "bolder" | undefined;
+        desktop?: number | "bold" | "normal" | "lighter" | "bolder" | undefined;
+        hover?: number | "bold" | "normal" | "lighter" | "bolder" | undefined;
+        focus?: number | "bold" | "normal" | "lighter" | "bolder" | undefined;
     } | undefined;
-    type?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | {
-        mobile?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | undefined;
-        tablet?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | undefined;
-        desktop?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | undefined;
-        hover?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | undefined;
-        focus?: "number" | "text" | "date" | "checkbox" | "checkboxLeft" | "email" | "password" | "file" | "textarea" | undefined;
+    type?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | {
+        mobile?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | undefined;
+        tablet?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | undefined;
+        desktop?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | undefined;
+        hover?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | undefined;
+        focus?: "number" | "file" | "textarea" | "text" | "checkbox" | "email" | "date" | "password" | "checkboxLeft" | undefined;
     } | undefined;
     fontSize?: "xs" | "sm" | "md" | "lg" | "xl" | "2xl" | {
         mobile?: "xs" | "sm" | "md" | "lg" | "xl" | "2xl" | undefined;
@@ -285,19 +285,19 @@ export declare const sprinkles: ((props: {
         hover?: "none" | undefined;
         focus?: "none" | undefined;
     } | undefined;
-    height?: "100vh" | "auto" | "inherit" | 100 | {
-        mobile?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        tablet?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        desktop?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        hover?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        focus?: "100vh" | "auto" | "inherit" | 100 | undefined;
+    height?: "auto" | "inherit" | "100vh" | 100 | {
+        mobile?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        tablet?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        desktop?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        hover?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        focus?: "auto" | "inherit" | "100vh" | 100 | undefined;
     } | undefined;
-    minHeight?: "100vh" | "auto" | "inherit" | 100 | {
-        mobile?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        tablet?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        desktop?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        hover?: "100vh" | "auto" | "inherit" | 100 | undefined;
-        focus?: "100vh" | "auto" | "inherit" | 100 | undefined;
+    minHeight?: "auto" | "inherit" | "100vh" | 100 | {
+        mobile?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        tablet?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        desktop?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        hover?: "auto" | "inherit" | "100vh" | 100 | undefined;
+        focus?: "auto" | "inherit" | "100vh" | 100 | undefined;
     } | undefined;
     fontStyle?: "italic" | {
         mobile?: "italic" | undefined;
@@ -313,40 +313,40 @@ export declare const sprinkles: ((props: {
         hover?: number | "500px" | undefined;
         focus?: number | "500px" | undefined;
     } | undefined;
-    paddingX?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingX?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    paddingY?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    paddingY?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    placeItems?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | {
-        mobile?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        tablet?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        desktop?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        hover?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
-        focus?: "space-around" | "space-between" | "stretch" | "center" | "flex-end" | "flex-start" | undefined;
+    placeItems?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | {
+        mobile?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        tablet?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        desktop?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        hover?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
+        focus?: "center" | "space-around" | "space-between" | "stretch" | "flex-end" | "flex-start" | undefined;
     } | undefined;
-    marginX?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginX?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
-    marginY?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | {
-        mobile?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        tablet?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        desktop?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        hover?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
-        focus?: "none" | "auto" | "large" | "medium" | "small" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+    marginY?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | {
+        mobile?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        tablet?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        desktop?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        hover?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
+        focus?: "small" | "auto" | "none" | "medium" | "large" | "xs" | "xl" | "xxs" | "xxl" | undefined;
     } | undefined;
 } & {
     color?: "transparent" | "black" | "white" | "gray100" | "gray200" | "gray300" | "gray400" | "gray500" | "vrBlue100" | "vrBlue200" | "vrBlue300" | "vrBlue400" | "vrBlue500" | "yellow100" | "yellow200" | "yellow300" | "yellow400" | "yellow500" | "green100" | "green200" | "green300" | "green400" | "green500" | "red100" | "red200" | "red300" | "red400" | "red500" | {
@@ -412,25 +412,25 @@ export declare const sprinkles: ((props: {
         disabledHover?: "none" | "gray" | "dotted" | "solid" | "lightGray" | "darkGray" | undefined;
         dark?: "none" | "gray" | "dotted" | "solid" | "lightGray" | "darkGray" | undefined;
     } | undefined;
-    cursor?: "auto" | "text" | "not-allowed" | "pointer" | {
-        default?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        hover?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        disabled?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        focus?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        focusWithin?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        disabledHover?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
-        dark?: "auto" | "text" | "not-allowed" | "pointer" | undefined;
+    cursor?: "auto" | "not-allowed" | "text" | "pointer" | {
+        default?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        hover?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        disabled?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        focus?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        focusWithin?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        disabledHover?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
+        dark?: "auto" | "not-allowed" | "text" | "pointer" | undefined;
     } | undefined;
-    boxShadow?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | {
-        default?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        hover?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        disabled?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        focus?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        focusWithin?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        disabledHover?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
-        dark?: "none" | "primary" | "secondary" | "tertiary" | "toggle" | undefined;
+    boxShadow?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | {
+        default?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        hover?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        disabled?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        focus?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        focusWithin?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        disabledHover?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
+        dark?: "none" | "toggle" | "primary" | "secondary" | "tertiary" | undefined;
     } | undefined;
 }) => string) & {
-    properties: Set<"alignItems" | "boxShadow" | "boxSizing" | "color" | "cursor" | "display" | "flexBasis" | "flexDirection" | "flexGrow" | "flexShrink" | "flexWrap" | "fontSize" | "fontStyle" | "fontWeight" | "height" | "justifyContent" | "lineHeight" | "marginBottom" | "marginLeft" | "marginRight" | "marginTop" | "maxWidth" | "minHeight" | "minWidth" | "paddingBottom" | "paddingLeft" | "paddingRight" | "paddingTop" | "position" | "textAlign" | "textTransform" | "top" | "width" | "background" | "border" | "borderBottom" | "borderLeft" | "borderRadius" | "borderRight" | "borderTop" | "gap" | "margin" | "outline" | "padding" | "placeItems" | "type" | "paddingX" | "paddingY" | "marginX" | "marginY">;
+    properties: Set<"type" | "height" | "width" | "top" | "alignItems" | "background" | "border" | "borderBottom" | "borderLeft" | "borderRadius" | "borderRight" | "borderTop" | "boxShadow" | "boxSizing" | "color" | "cursor" | "display" | "flexBasis" | "flexDirection" | "flexGrow" | "flexShrink" | "flexWrap" | "fontSize" | "fontStyle" | "fontWeight" | "gap" | "justifyContent" | "lineHeight" | "margin" | "marginBottom" | "marginLeft" | "marginRight" | "marginTop" | "maxWidth" | "minHeight" | "minWidth" | "outline" | "padding" | "paddingBottom" | "paddingLeft" | "paddingRight" | "paddingTop" | "placeItems" | "position" | "textAlign" | "textTransform" | "paddingX" | "paddingY" | "marginX" | "marginY">;
 };
 export type Sprinkles = Parameters<typeof sprinkles>[0];
